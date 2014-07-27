@@ -1,0 +1,5 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Book'sNotes\bin\Debug\Book'sNotes.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Book'sNotes\obj\Debug\Book'sNotes.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Book'sNotes\obj\Debug\Book'sNotes.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Book'sNotes\bin\Debug\Book'sNotes.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Book'sNotes\bin\Debug\Book'sNotes.pdb

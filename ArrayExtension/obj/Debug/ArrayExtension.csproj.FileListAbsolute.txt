@@ -1,0 +1,6 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\bin\Debug\ArrayExtension.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\bin\Debug\ArrayExtension.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\bin\Debug\ArrayExtension.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\obj\Debug\ArrayExtension.csprojResolveAssemblyReference.cache
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\obj\Debug\ArrayExtension.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\ArrayExtension\obj\Debug\ArrayExtension.pdb

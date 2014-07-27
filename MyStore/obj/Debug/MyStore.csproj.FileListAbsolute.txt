@@ -1,0 +1,6 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\obj\Debug\MyStore.csprojResolveAssemblyReference.cache
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\bin\Debug\MyStore.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\bin\Debug\MyStore.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\obj\Debug\MyStore.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\MyStore\obj\Debug\MyStore.pdb

@@ -1,0 +1,3 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Anonim\bin\Debug\Anonim.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Anonim\obj\Debug\Anonim.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\ArrayExtension\Anonim\obj\Debug\Anonim.pdb
